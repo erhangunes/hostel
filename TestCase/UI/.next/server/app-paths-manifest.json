@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/(Auth)/login/page": "app/(Auth)/login/page.js",
+  "/(Dashboard)/dashboard/page": "app/(Dashboard)/dashboard/page.js",
+  "/(Bina-Islemleri)/bina-ayarlari/page": "app/(Bina-Islemleri)/bina-ayarlari/page.js"
+}

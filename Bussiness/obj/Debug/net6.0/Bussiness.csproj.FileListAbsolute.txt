@@ -1,0 +1,15 @@
+C:\Users\developer\source\repos\TestCase\Bussiness\bin\Debug\net6.0\Bussiness.deps.json
+C:\Users\developer\source\repos\TestCase\Bussiness\bin\Debug\net6.0\Bussiness.dll
+C:\Users\developer\source\repos\TestCase\Bussiness\bin\Debug\net6.0\Bussiness.pdb
+C:\Users\developer\source\repos\TestCase\Bussiness\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\developer\source\repos\TestCase\Bussiness\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\developer\source\repos\TestCase\Bussiness\obj\Debug\net6.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\developer\source\repos\TestCase\Bussiness\obj\Debug\net6.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\source\repos\TestCase\Bussiness\obj\Debug\net6.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\developer\source\repos\TestCase\Bussiness\obj\Debug\net6.0\Bussiness.AssemblyInfo.cs
+C:\Users\developer\source\repos\TestCase\Bussiness\obj\Debug\net6.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\TestCase\Bussiness\obj\Debug\net6.0\Bussiness.csproj.CopyComplete
+C:\Users\developer\source\repos\TestCase\Bussiness\obj\Debug\net6.0\Bussiness.dll
+C:\Users\developer\source\repos\TestCase\Bussiness\obj\Debug\net6.0\refint\Bussiness.dll
+C:\Users\developer\source\repos\TestCase\Bussiness\obj\Debug\net6.0\Bussiness.pdb
+C:\Users\developer\source\repos\TestCase\Bussiness\obj\Debug\net6.0\ref\Bussiness.dll
